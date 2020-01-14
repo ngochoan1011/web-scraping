@@ -49,6 +49,8 @@ mvn spring-boot:run
 
 Visit http://localhost:8080/  
 
+See this demo on running the app: https://youtu.be/k73Dy0w9u00 
+
 ## Run tests
 
 ```
