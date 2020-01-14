@@ -13,6 +13,7 @@ The result comprises the following information:
  - Are there any inaccessible links and how many?
  - Did the page contain a login-form? 
 ​
+
 In case the URL given by the user is not reachable an error message should appear below the input form. The message should contain the HTTP status-code and some useful error description. 
 
 *Assumption*: A valid link must start with `http://` or `https://`.
