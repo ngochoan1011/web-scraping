@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="60" viewBox="0 0 48 60">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" stroke="#D1D1DC" stroke-width="2.4" d="M46.8 18.587L29.324 1.2H4.8a3.6 3.6 0 0 0-3.6 3.6v50.4a3.6 3.6 0 0 0 3.6 3.6h38.4a3.6 3.6 0 0 0 3.6-3.6V18.587z"/>
+        <path fill="#D1D1DC" d="M28.8 0L48 19.2H28.8z"/>
+        <text fill="#171F41" font-family="Cambay-Bold, Cambay" font-size="32" font-weight="bold">
+            <tspan x="18" y="42">2</tspan>
+        </text>
+    </g>
+</svg>
