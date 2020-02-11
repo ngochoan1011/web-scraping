@@ -55,7 +55,7 @@ See this demo on running the app: https://youtu.be/k73Dy0w9u00
 ## Run tests
 
 ```
-mvn clean install spring-boot:run
+mvn test
 ```
 
 ## Further works 
