@@ -22,7 +22,7 @@
         <springfox.version>2.6.1</springfox.version>
         <commons-lang3.version>3.5</commons-lang3.version>
         <commons-io.version>2.5</commons-io.version>
-        <jsoup.version>1.10.2</jsoup.version>
+        <jsoup.version>1.14.2</jsoup.version>
         <spring-boot.version>1.5.8.RELEASE</spring-boot.version>
     </properties>
 
